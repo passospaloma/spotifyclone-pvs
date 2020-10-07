@@ -14,3 +14,7 @@ npm i @material-ui/icons
 ### To Start you need to install
 
 npm install or yarn install
+
+
+![spotifyclone](https://user-images.githubusercontent.com/31938621/95353940-39a48080-089a-11eb-9887-086bf20c92a5.jpg)
+
